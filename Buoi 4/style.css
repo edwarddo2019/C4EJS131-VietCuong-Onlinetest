@@ -1,0 +1,43 @@
+.header {
+  background-color: purple;
+}
+
+.logo {
+}
+
+.title {
+}
+
+.list-product {
+}
+
+.product {
+}
+
+.product-img {
+}
+
+.product-content {
+}
+
+.product-title {
+}
+
+.product-description {
+}
+
+.product-price {
+}
+
+.add-to-cart {
+}
+
+.footer {
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
